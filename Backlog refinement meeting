@@ -1,0 +1,41 @@
+Backlog-forbedringsmøte 
+
+Dato: 07.10.2024
+
+Deltakere: 
+Carla Beatrice
+Mohamed Almaani
+Farshid Jalili
+Mostafa Askari
+
+Formål:
+Målet med møtet var å forbedre og prioritere produktbackloggen i henhold til interessentkravene, for å sikre at de viktigste brukerhistoriene er klare for sprintplanlegging.
+
+Diskuterte brukerhistorier:
+Under møtet vurderte vi følgende brukerhistorier og gjorde nødvendige forbedringer:
+
+1. Opprette et produkt i katalogen: Tydeliggjorde kravene og satte prioritet til høy.
+2. Hente et produkt fra katalogen: Diskuterte tekniske detaljer og satte prioritet til høy.
+3. Oppdatere et produkt i katalogen: Delte opp i mindre oppgaver, satt som høy prioritet.
+4. Slette et produkt fra katalogen: Ingen endringer, satt som høy prioritet.
+5. Like et produkt i katalogen: Satt som middels prioritet.
+6. Mislike et produkt i katalogen: Lav prioritet.
+7. Liste opp alle produktene i katalogen: Flyttet til isboks for fremtidig vurdering.
+8. Spørre etter et delsett av produktene i katalogen: Flyttet til isboks.
+
+Endelig prioritering av backloggen:
+Etter møtet ble brukerhistoriene rangert i følgende rekkefølge:
+
+1. Opprette et produkt i katalogen
+2. Hente et produkt fra katalogen
+3. Oppdatere et produkt i katalogen
+4. Slette et produkt fra katalogen
+5. Like et produkt i katalogen
+6. Mislike et produkt i katalogen
+7. (Isboks) Liste opp alle produktene i katalogen
+8. (Isboks) Spørre etter et delsett av produktene
+
+Møtet ble avsluttet med enighet om å jobbe med de fire øverste historiene i neste sprint.
+
+Skrevet av,
+F. Jalili
